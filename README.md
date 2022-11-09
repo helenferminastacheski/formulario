@@ -30,6 +30,7 @@
          <td>FISICA</td>
          <td>QUIMICA</td>
     <tr>
+    <tr>
          <td>08:00</td>
          <td>portugues</td>
          <td>ED.financeira</td>
@@ -37,12 +38,14 @@
          <td>PENSAMENTO COMPUTACIONAL</td>
          <td>QUIMICA</td>
       <tr>
+      <tr>
          <td>08:50</td>
          <td>ARTE</td>
          <td>HISTORIA</td>
          <td>GEOGRAFIA</td>
          <td>FISICA</td>
          <td>FILOSOFIA</td>
+      <tr>
   <main>
       
   
