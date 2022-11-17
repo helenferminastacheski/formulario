@@ -55,14 +55,13 @@
          <td>BIOLOGIA</td>
       <tr>
       <tr>
-         <td>08:50</td>
+         <td>10:55</td>
          <td>PORTUGUES</td>
          <td>GEOGRAFIA</td>
          <td>MATEMATICA</td>
          <td>PROJETO DE VIDA</td>
          <td>FISICA</td>
-      <tr>
-      
+       <tr>
   <main>
       
   
