@@ -32,9 +32,9 @@
     <tr>
     <tr>
          <td>08:00</td>
-         <td>portugues</td>
-         <td>ED.financeira</td>
-         <td>biologia</td>
+         <td>PORTUGUES</td>
+         <td>ED.FINANCERA</td>
+         <td>BIOLOGIA</td>
          <td>PENSAMENTO COMPUTACIONAL</td>
          <td>QUIMICA</td>
       <tr>
@@ -46,6 +46,23 @@
          <td>FISICA</td>
          <td>FILOSOFIA</td>
       <tr>
+      <tr>
+         <td>09:35</td>
+         <td>INGLÊS</td>
+         <td>ED.FISICA</td>
+         <td>GEOGRAFIA</td>
+         <td>FISICA</td>
+         <td>BIOLOGIA</td>
+      <tr>
+      <tr>
+         <td>08:50</td>
+         <td>PORTUGUES</td>
+         <td>GEOGRAFIA</td>
+         <td>MATEMATICA</td>
+         <td>PROJETO DE VIDA</td>
+         <td>FISICA</td>
+      <tr>
+      
   <main>
       
   
