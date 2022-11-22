@@ -21,47 +21,47 @@
          <td>QUARTA</td>
          <td>QUINTA</td>
          <td>SEXTA</td>
-    <tr>
-    <tr>
+     <tr>
+     <tr>
          <td>07:10</td>
          <td>ARTE</td>
          <td>ED.FISICA</td>
          <td>MATEMATICA</td>
          <td>FISICA</td>
          <td>QUIMICA</td>
-    <tr>
-    <tr>
+     <tr>
+     <tr>
          <td>08:00</td>
          <td>PORTUGUES</td>
          <td>ED.FINANCERA</td>
          <td>BIOLOGIA</td>
          <td>PENSAMENTO COMPUTACIONAL</td>
          <td>QUIMICA</td>
-      <tr>
-      <tr>
+     <tr>
+     <tr>
          <td>08:50</td>
          <td>ARTE</td>
          <td>HISTORIA</td>
          <td>GEOGRAFIA</td>
          <td>FISICA</td>
          <td>FILOSOFIA</td>
-      <tr>
-      <tr>
+     <tr>
+     <tr>
          <td>09:35</td>
          <td>INGLÊS</td>
          <td>ED.FISICA</td>
          <td>GEOGRAFIA</td>
          <td>FISICA</td>
          <td>BIOLOGIA</td>
-      <tr>
-      <tr>
+     <tr>
+     <tr>
          <td>10:55</td>
          <td>PORTUGUES</td>
          <td>GEOGRAFIA</td>
          <td>MATEMATICA</td>
          <td>PROJETO DE VIDA</td>
          <td>FISICA</td>
-       <tr>
+     <tr>
   <main>
       
   
