@@ -35,7 +35,7 @@
          <td>PORTUGUES</td>
          <td>ED.FINANCERA</td>
          <td>BIOLOGIA</td>
-         <td>PENSAMENTO COMPUTACIONAL</td>
+         <td>PENS.COMPUTACIONAL</td>
          <td>QUIMICA</td>
      <tr>
      <tr>
@@ -59,8 +59,16 @@
          <td>PORTUGUES</td>
          <td>GEOGRAFIA</td>
          <td>MATEMATICA</td>
-         <td>PROJETO DE VIDA</td>
+         <td>PROJ.DE VIDA</td>
          <td>FISICA</td>
+     <tr>
+      <tr>
+         <td>11:30</td>
+         <td>EDU.FINANCEIRA</td>
+         <td>EDUCAÇÃO FÍSIA</td>
+         <td>PENS.COMPUTAC.</td>
+         <td>PROJET DE VIDA</td>
+         <td>MATEMÁTICA</td>
      <tr>
   <main>
       
